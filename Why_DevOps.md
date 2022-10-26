@@ -1,4 +1,5 @@
-*** Why DevOps ***
+**Why DevOps**
+
 To understand why DevOps is required, let’s first understand, what happens without DevOps.
 
 While initiating a new project, we have two different kinds of teams. First is the Development team, which is involved completely in developing and testing, including writing code and unit test cases. The other team is the Operations team which is involved in operating and monitoring the product.
@@ -19,3 +20,5 @@ Now, let’s see how we can make it more systematic using DevOps and how DevOps 
 - It also helps in team collaboration.
 - Reduces the failures and rollbacks
 - Provides continuous improvement
+
+  
