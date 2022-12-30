@@ -1,3 +1,2 @@
 writing an automation
-Author : Gunjan
-update
+Author : IBT
